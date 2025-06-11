@@ -21,5 +21,8 @@ Once activated, the plugin will automatically start monitoring scripts on your s
 ## Uninstallation
 To uninstall the plugin, deactivate it from the 'Plugins' menu and delete the `ncx-script-monitor` folder. The uninstall script will handle the cleanup of any stored data related to monitored scripts.
 
-## Contributing
-If you would like to contribute to this plugin, please fork the repository and submit a pull request with your changes.
+## Changelog
+
+= 1.0 =
+
+- Initial Release
