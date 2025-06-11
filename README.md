@@ -19,10 +19,7 @@ This plugin monitors scripts in a WordPress site, detecting inline, internal, ex
 Once activated, the plugin will automatically start monitoring scripts on your site. You can access the monitoring interface from the WordPress admin dashboard to view detected scripts and any changes.
 
 ## Uninstallation
-To uninstall the plugin, deactivate it from the 'Plugins' menu and delete the `my-wordpress-plugin` folder. The uninstall script will handle the cleanup of any stored data related to monitored scripts.
+To uninstall the plugin, deactivate it from the 'Plugins' menu and delete the `ncx-script-monitor` folder. The uninstall script will handle the cleanup of any stored data related to monitored scripts.
 
 ## Contributing
 If you would like to contribute to this plugin, please fork the repository and submit a pull request with your changes.
-
-## License
-This plugin is licensed under the MIT License. See the LICENSE file for more information.
