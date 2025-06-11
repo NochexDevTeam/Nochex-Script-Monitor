@@ -1,4 +1,4 @@
-# Nochex-Script-Monitor
+# Nochex Script Monitor
 
 ## Description
 This plugin monitors scripts in a WordPress site, detecting inline, internal, external, and dynamically created scripts. It ensures that only unique scripts and those that have changed are tracked, providing a comprehensive overview of script usage.
